@@ -115,5 +115,8 @@ WYSIWYG редактор | Редактор языка HTML, имеющий в
 2. Шаблоны интерфейсов системы
 	* [Главная страница](/01-templates/home)
 	* [Изобретение](/01-templates/tech)
-	* [Компания](/01-templates/company)
+	* Компания
+		* [О компания](/01-templates/company/about_company)
+		* [Наша команда](/01-templates/company/our_team)
+		* [Документы](/01-templates/company/documents)
 
