@@ -16,11 +16,11 @@
 		* Кнопка «Читать» — ведет на страницу «Новости»
 
 # Первый экран
-![screen_1](./previews/screen_1.jpg)
+![screen_1](../previews/screen_1.jpg)
 
 # Второй экран
-![screen_2](./previews/screen_2.jpg)
+![screen_2](../previews/screen_2.jpg)
 
 # Третий экран
-![screen_3](./previews/screen_3.jpg)
+![screen_3](../previews/screen_3.jpg)
 
