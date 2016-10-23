@@ -31,11 +31,11 @@
 		* Картинка
 
 #  О Компании
-![screen_1](./previews/company.jpg)
+![screen_1](../previews/company.jpg)
 
 #  Наша Команда
-![screen_2](./previews/our_team.jpg)
+![screen_2](../previews/our_team.jpg)
 
 #  Документы
-![screen_3](./previews/documents.jpg)
+![screen_3](../previews/documents.jpg)
 

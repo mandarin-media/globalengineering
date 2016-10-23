@@ -13,4 +13,4 @@
 	* Футер
 		* Картинка
 
-![screen_1](../previews/documents.jpg)
+![screen_1](../../previews/documents.jpg)

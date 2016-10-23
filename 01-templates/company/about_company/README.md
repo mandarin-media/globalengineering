@@ -31,4 +31,4 @@
 		* картинка
 
 
-![screen_1](../previews/company.jpg)
+![screen_1](../../previews/company.jpg)

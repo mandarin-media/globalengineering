@@ -13,4 +13,4 @@
 		* Должность
 	* Футер
 
-![screen_1](../previews/our_team.jpg)
+![screen_1](../../previews/our_team.jpg)

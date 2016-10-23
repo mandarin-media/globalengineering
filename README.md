@@ -119,4 +119,7 @@ WYSIWYG редактор | Редактор языка HTML, имеющий в
 		* [О компания](/01-templates/company/about_company)
 		* [Наша команда](/01-templates/company/our_team)
 		* [Документы](/01-templates/company/documents)
+	* [Инвестору](/01-templates/invest)
+	* Новости
+		* [Список новостей](/01-templates/news/news_list)
 
