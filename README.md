@@ -122,4 +122,5 @@ WYSIWYG редактор | Редактор языка HTML, имеющий в
 	* [Инвестору](/01-templates/invest)
 	* Новости
 		* [Список новостей](/01-templates/news/news_list)
+		* [Новость](/01-templates/news/news_single)
 
