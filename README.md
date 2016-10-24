@@ -124,5 +124,6 @@ WYSIWYG редактор | Редактор языка HTML, имеющий в
 		* [Список новостей](/01-templates/news/news_list)
 		* [Новость](/01-templates/news/news_single)
 	* [Видео](/01-templates/video)
+	* [Контакты](/01-templates/contacts)
 
 
