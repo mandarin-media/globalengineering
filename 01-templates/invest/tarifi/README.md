@@ -1,0 +1,1 @@
+![invest](../../previews/invest_tarifi.jpg)
